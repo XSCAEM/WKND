@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-two-point-o/language-masters/en:/",
+    "/content/wknd-two-point-o/language-masters/en/:/",
+    "/content/wknd-two-point-o/language-masters/en/:/en/",
+    "/content/wknd-two-point-o/configuration:/.helix/config.json",
+    "/content/wknd-two-point-o/metadata:/metadata.json",
+    "/content/wknd-two-point-o/redirects:/redirects.json",
+    "/content/wknd-two-point-o/placeholders:/placeholders.json",
+    "/content/wknd-two-point-o.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/wknd-two-point-o/",
+    "/content/dam/wknd-two-point-o/"
   ]
 }
